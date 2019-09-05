@@ -1,14 +1,19 @@
-<h1>app-from-scratch</h1><h6>Desenvolvendo uma Lab PoC do projeto [@lucasmontano/first-how-to-build-an-app](https://github.com/lucasmontano/first-how-to-build-an-app)</h6>
+<h1>app-from-scratch</h1>
+
+Desenvolvendo uma Lab PoC do projeto <a href="https://github.com/lucasmontano/first-how-to-build-an-app">@lucasmontano/first-how-to-build-an-app</a>
+
 <hr>
 <b>Links Úteis</b>
-- [Material Design](https://material.io)
-- [Fire Base](https://firebase.google.com)
+
+- <a href="https://material.io">Material Design</a>
+- <a href="https://firebase.google.com">Fire Base</a>
+
 <hr>
 <h1>Como criar um aplicativo<h2>
 
-<h6>O primeiro projeto da série "Como criar um aplicativo" no canal do Youtube [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg).</h6>
+<h6>O primeiro projeto da série "Como criar um aplicativo" no canal do Youtube <a href="https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg">Lucas Montano</a>.</h6>
 
-<h4>Confira a lista de reprodução do Youtube no Canal [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) </h4>http://bit.ly/first-how-to-build-an-app
+<h4>Confira a lista de reprodução do Youtube no Canal <a href="https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg">Lucas Montano</a></h4>http://bit.ly/first-how-to-build-an-app
 
 <h4>Wireframe</h4>https://github.com/lucasmontano/first-how-to-build-an-app/blob/master/wireframe-v1.0.0-beta.JPG
 
