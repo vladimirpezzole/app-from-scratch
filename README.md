@@ -1,6 +1,5 @@
 <h1>app-from-scratch</h1>
-
-Desenvolvendo uma Lab PoC do projeto <a href="https://github.com/lucasmontano/first-how-to-build-an-app">@lucasmontano/first-how-to-build-an-app</a>
+<h5>Desenvolvendo uma Lab PoC do projeto <a href="https://github.com/lucasmontano/first-how-to-build-an-app">@lucasmontano/first-how-to-build-an-app</a></h5>
 
 <hr>
 <b>Links Úteis</b>
